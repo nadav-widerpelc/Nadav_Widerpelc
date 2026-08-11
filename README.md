@@ -218,32 +218,30 @@ Estou aberto a aprender, colaborar em projetos e trocar experiências sobre tecn
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:00B4D8&height=110&section=footer" alt="Rodapé decorativo" />
+---
 
+## 📚 Trabalhos e Apresentações
 
-# 🚀 Trabalhos Recentes
+### 🤖 Desafio Final — Agente de IA para Corretora de Seguros
 
-Aqui estão alguns dos meus projetos e trabalhos desenvolvidos durante minha formação em Engenharia de Software.
+Projeto acadêmico desenvolvido utilizando **n8n, Inteligência Artificial, automação e integração de serviços do Google**.
 
-## 🤖 Desafio Final — Agente de IA
+O projeto apresenta uma automação capaz de receber solicitações, validar informações, classificar os atendimentos com IA e encaminhar cada caso para o fluxo adequado.
 
-Projeto desenvolvido utilizando automação, inteligência artificial e integração de ferramentas.
+📄 **[Visualizar apresentação completa em PDF](https://github.com/nadav-widerpelc/TrabalhosRecentes/blob/main/Desafio_Final_Agente_IA.pdf)**
 
-### 📄 Apresentação
+🎥 A apresentação contém vídeos demonstrando o funcionamento da automação e explicando as principais etapas do projeto.
 
-[📑 Visualizar apresentação em PDF](./Desafio_Final_Agente_IA.pdf)
+**Tecnologias utilizadas:**
 
-### 🎥 Demonstração
-
-Dentro da apresentação estão disponíveis os vídeos explicando o funcionamento da automação.
+`n8n` · `OpenAI / LLM` · `Google Forms` · `Google Sheets` · `Google Drive` · `Gmail / SMTP` · `APIs`
 
 ---
 
-## 🛠️ Tecnologias
 
-- Python
-- Inteligência Artificial
-- LLM
-- n8n
-- Automação
-- APIs
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:00B4D8&height=110&section=footer" alt="Rodapé decorativo" />
+
+
+
+

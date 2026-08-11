@@ -204,13 +204,7 @@ A saída estruturada permite que o n8n leia a resposta de maneira previsível e 
 
 `Engenharia de Software` → `Desenvolvimento Web` → `Banco de Dados` → `APIs` → `IA e Automação` → `Boas práticas`
 
-## Estatísticas do GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nadav-widerpelc&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Nadav" />
-
-</div>
 
 ## Vamos conversar?
 

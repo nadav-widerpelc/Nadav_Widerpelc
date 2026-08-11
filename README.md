@@ -85,7 +85,6 @@ O projeto apresenta uma automação capaz de receber solicitações, validar inf
 `n8n` · `OpenAI / LLM` · `Google Forms` · `Google Sheets` · `Google Drive` · `Gmail / SMTP` · `APIs`
 
 ---
----
 
 ## Documentação dos projetos
 

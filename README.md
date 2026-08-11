@@ -64,6 +64,27 @@ Transformo ideias em soluções digitais com desenvolvimento web, automação, I
 | **Atuação:** concepção do produto, UX/UI no Figma e desenvolvimento web. | **Atuação:** construção do fluxo no n8n, integração de API e testes da automação. |
 | [Conhecer o Trampei ↓](#trampei) | [Conhecer o agente de IA ↓](#agente-de-ia-para-corretora-de-seguros) |
 
+</div>
+
+---
+
+## 📚 Trabalhos e Apresentações
+
+### 🤖 Desafio Final — Agente de IA para Corretora de Seguros
+
+Projeto acadêmico desenvolvido utilizando **n8n, Inteligência Artificial, automação e integração de serviços do Google**.
+
+O projeto apresenta uma automação capaz de receber solicitações, validar informações, classificar os atendimentos com IA e encaminhar cada caso para o fluxo adequado.
+
+📄 **[Visualizar apresentação completa em PDF](https://github.com/nadav-widerpelc/TrabalhosRecentes/blob/main/Desafio_Final_Agente_IA.pdf)**
+
+🎥 A apresentação contém vídeos demonstrando o funcionamento da automação e explicando as principais etapas do projeto.
+
+**Tecnologias utilizadas:**
+
+`n8n` · `OpenAI / LLM` · `Google Forms` · `Google Sheets` · `Google Drive` · `Gmail / SMTP` · `APIs`
+
+---
 ---
 
 ## Documentação dos projetos
@@ -215,29 +236,6 @@ Estou aberto a aprender, colaborar em projetos e trocar experiências sobre tecn
 [![LinkedIn](https://img.shields.io/badge/Conecte--se%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadav-arik-widerpelc-904407284/)
 
 ### Sempre aprendendo. Sempre construindo. 🚀
-
-</div>
-
----
-
-## 📚 Trabalhos e Apresentações
-
-### 🤖 Desafio Final — Agente de IA para Corretora de Seguros
-
-Projeto acadêmico desenvolvido utilizando **n8n, Inteligência Artificial, automação e integração de serviços do Google**.
-
-O projeto apresenta uma automação capaz de receber solicitações, validar informações, classificar os atendimentos com IA e encaminhar cada caso para o fluxo adequado.
-
-📄 **[Visualizar apresentação completa em PDF](https://github.com/nadav-widerpelc/TrabalhosRecentes/blob/main/Desafio_Final_Agente_IA.pdf)**
-
-🎥 A apresentação contém vídeos demonstrando o funcionamento da automação e explicando as principais etapas do projeto.
-
-**Tecnologias utilizadas:**
-
-`n8n` · `OpenAI / LLM` · `Google Forms` · `Google Sheets` · `Google Drive` · `Gmail / SMTP` · `APIs`
-
----
-
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:00B4D8&height=110&section=footer" alt="Rodapé decorativo" />
